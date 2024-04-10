@@ -14,7 +14,7 @@ h4
 }
 
 h1 {
-    color: whitesmoke;
+    color: white;
     font-size: 1.75rem;
 }
 
@@ -42,7 +42,7 @@ p {
 .subheading {
     display: block;
     font-size: 1rem;
-    color: #CAF0F8;
+    color: #E5F7FA;
 }
 
 .section-two h2 {
@@ -152,7 +152,7 @@ footer {
 /* ----- NAVIGATION ----- */
 
 nav a {
-    color: #fff;
+    color: white;
     text-decoration: none;
     font-size: 1.125rem;
     padding: 0.5em 0;
